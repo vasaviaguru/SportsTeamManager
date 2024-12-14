@@ -1,2 +1,2 @@
 # SportsTeamManager
-This is a simple Python program of a Sports Team Management System designed to manage a sports team, focusing on player and match management. 
+This is a simple Python program of a Sports Team Management System designed to manage a sports team, focusing on player and match management. This program allows users to add players by providing their name, age, and position. Players can also be removed from the team based on their name, and existing player details such as name, age, and position can be updated as needed. Additionally, the user can schedule matches specifying the opponent's team and date of the match. The program also allows the user to view the current list of players and all scheduled matches.
